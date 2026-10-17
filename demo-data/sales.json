@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-08-01",
+    "revenue": 150000,
+    "cost": 95000,
+    "product": "Консалтинг",
+    "category": "Команда",
+    "channel": "Сайт"
+  },
+  {
+    "date": "2026-08-05",
+    "revenue": 79000,
+    "cost": 50000,
+    "product": "Подписка Pro",
+    "category": "Маркетинг",
+    "channel": "Instagram"
+  },
+  {
+    "date": "2026-09-01",
+    "revenue": 180000,
+    "cost": 90000,
+    "product": "Консалтинг",
+    "category": "Команда",
+    "channel": "WhatsApp"
+  },
+  {
+    "date": "2026-09-08",
+    "revenue": 79000,
+    "cost": 30000,
+    "product": "Подписка Pro",
+    "category": "Маркетинг",
+    "channel": "Instagram"
+  },
+  {
+    "date": "2026-09-15",
+    "revenue": 250000,
+    "cost": 140000,
+    "product": "Внедрение CRM",
+    "category": "Подрядчики",
+    "channel": "Сайт"
+  },
+  {
+    "date": "2026-09-21",
+    "revenue": 100000,
+    "cost": 40000,
+    "product": "Обучение",
+    "category": "Команда",
+    "channel": "Instagram"
+  }
+]

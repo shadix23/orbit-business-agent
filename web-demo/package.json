@@ -1,0 +1,9 @@
+{
+  "name": "orbit-business-os",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Investor-ready Business Operating AI Agent PoC",
+  "scripts": { "start": "node server.mjs", "dev": "node server.mjs", "test": "node --test tests/*.test.mjs", "check": "node --check server.mjs && node --check dist/app.js && node --check dist/engine.js" },
+  "engines": { "node": ">=20" }
+}

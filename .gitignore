@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+*.log
+workspace/
+__pycache__/
+*.pyc
+.orbit-local.json
+.openai/
+.sites/
